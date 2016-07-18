@@ -1,0 +1,9 @@
+
+.project
+.classpath
+
+# Note the / for .setting folder: that will ignore everything in it.
+.settings/
+
+target
+.tern-project
